@@ -1,0 +1,52 @@
+@media (max-width: 1799px) {
+}
+@media (max-width: 1599px) {
+}
+@media (max-width: 1439px) {
+  .heroLogo {
+    max-width: 100px;
+  }
+  .headerNav {
+    font-size: var(--font-16);
+  }
+  .headerCart {
+    max-width: var(--size-24);
+    max-height: var(--size-24);
+  }
+  .cartCount {
+    max-height: var(--size-12);
+    max-width: var(--size-12);
+  }
+  .heroContent {
+    max-width: 600px;
+  }
+  .heroContent h1 {
+    font-size: var(--font-40);
+  }
+  .heroContent p {
+    font-size: var(--font-14);
+  }
+  .pillowInfoIcon,
+  .sofaInfoIcon {
+    max-width: 32px;
+    max-height: 32px;
+  }
+}
+@media (max-width: 1365px) {
+}
+@media (max-width: 1279px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 575px) {
+}
+@media (max-width: 399px) {
+}
+@media (max-width: 374px) {
+}
+@media (max-width: 349px) {
+}
